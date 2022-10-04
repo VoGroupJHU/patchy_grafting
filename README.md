@@ -10,14 +10,20 @@ An example out "Prism3_sigma_0.1_N_50_kT_1.mat" is provided. This file can be lo
 
 There are a couple other included convenient functions defined as followed:
 
-calc_inertial_tensor.m 			Compute the intertial tensor of a given shape
+Compute the intertial tensor of a given shape
+calc_inertial_tensor.m 			
 
-gen_poly.m 							    Compute a surface mesh for a given input shape
+Compute a surface mesh for a given input shape
+gen_poly.m 							    
 
-parameterize_shape.m 				Compute an object that evaluate the kernel shape parameter
+Compute an object that evaluate the kernel shape parameter
+parameterize_shape.m 				
 
-xyz_to_kernel.m 					  Converts from cartesian to spherical coordinates 
+Converts from cartesian to spherical coordinates 
+xyz_to_kernel.m 					  
 
-core_data.mat 						  Convenient data structure of pre-computed surface mesh
+Convenient data structure of pre-computed surface mesh
+core_data.mat 						  
 
-Prism3.txt 							    Coorindates defining vertices of the prism
+Coorindates defining vertices of the prism
+Prism3.txt 							    
